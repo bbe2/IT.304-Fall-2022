@@ -7,7 +7,7 @@ Location: on-ground, SETA, 209, Wednesday and Friday at 11:00 – 12:15
 
 Instructor: brian hogan, b.hogan@snhu.edu, https://github.com/bbe2/IT.304.Fall.2022  
 
-Course Description  
+**Course Description**    
 Systems analysis and design is an art form, discipline, and science, and it has a deep history dating back to the 1890s, forming the salient pillars of speed, quality, and control.  
 
 ![syllabus BPS history](https://user-images.githubusercontent.com/59778456/188316766-53dca995-e649-48fa-9501-4687fcd0b6a7.JPG) 
