@@ -22,4 +22,6 @@ Skill achievement in this arena derives from selecting models to frame systems w
  
 Students are encouraged to focus learning on what is MOST meaningful to their future goals. 
 
->> See files above for latest syllabus & weekly assignments
+> **See links top of page for,**
+>> **to full syllabus**  
+ >>> **weekly assignments**  
