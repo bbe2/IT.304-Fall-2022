@@ -1,5 +1,4 @@
-**Southern New Hampshire University**  
-**Syllabus**
+**Southern New Hampshire University**  -- **Syllabus**
 
 **IT.304: Systems requirements and implementation planning, Fall 2022**  
 Course Prerequisites: IT.200, QSO.340  
