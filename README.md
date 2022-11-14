@@ -1,7 +1,7 @@
 quick links:  
 • https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
+• https://github.com/bbe2/IT.304.Fall.2022/tree/python_books   
 • https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
-•
 
 **Syllabus Overview**
 **IT.304: Systems requirements and implementation planning, Fall 2022**  
