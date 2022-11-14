@@ -1,11 +1,10 @@
-quick links: 
-https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus
-**Southern New Hampshire University**  -- **Syllabus**
+quick links:  
+• https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
+•   
+•
 
+**Syllabus Overview**
 **IT.304: Systems requirements and implementation planning, Fall 2022**  
-Course Prerequisites: IT.200, QSO.340  
-Location: on-ground, SETA, 209, Wednesday and Friday at 11:00 – 12:15  
-
 Instructor: brian hogan, b.hogan@snhu.edu, https://github.com/bbe2/IT.304.Fall.2022  
 
 **Course Description**
