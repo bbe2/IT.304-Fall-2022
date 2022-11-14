@@ -1,6 +1,6 @@
 quick links:  
 • https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
-•   
+• https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
 •
 
 **Syllabus Overview**
