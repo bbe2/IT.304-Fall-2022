@@ -30,6 +30,8 @@ In the 2020s, BPS is alive and well, as witnessed by consultancies like IBM’s 
 >> **complete syllabus**  
 >>> **weekly assignments**  
 >>>> **course models and python code**  
-	
+
+![me_teaching](https://user-images.githubusercontent.com/59778456/201562431-34cc1cc4-1539-4121-9aa8-86a1f4173b8c.jpg)
+
 - **AWS Hackathon stickers October 2022**
 ![AWS stickers](https://user-images.githubusercontent.com/59778456/199830336-d3ff3334-08c9-40ca-a115-f38257463b0e.jpg)
