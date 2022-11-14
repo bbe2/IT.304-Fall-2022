@@ -1,7 +1,7 @@
-quick links:
+quick links:  
 • https://github.com/bbe2/IT.304.Fall.2022  
 • https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
-• https://github.com/bbe2/IT.304.Fall.2022/tree/python_books   
+• https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
 • https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
 
 ![me_teaching](https://user-images.githubusercontent.com/59778456/201562431-34cc1cc4-1539-4121-9aa8-86a1f4173b8c.jpg)
