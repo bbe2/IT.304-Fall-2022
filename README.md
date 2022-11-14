@@ -1,3 +1,5 @@
+quick links: 
+https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus
 **Southern New Hampshire University**  -- **Syllabus**
 
 **IT.304: Systems requirements and implementation planning, Fall 2022**  
