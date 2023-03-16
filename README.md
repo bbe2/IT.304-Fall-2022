@@ -3,9 +3,9 @@
 Instructor: brian hogan, b.hogan@snhu.edu
 
 quick links:  
-• https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
-• https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
-• https://github.com/bbe2/IT.304.Fall.2022/tree/Weekly-Assignments  
+• data______________)https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
+• python_codebooks___https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
+• weekly.assignments_https://github.com/bbe2/IT.304.Fall.2022/tree/Weekly-Assignments  
 
 **Course Description**  
 Systems analysis and design is an artform, discipline, and science. Thanks to Frederick Taylor, the 1890s embedded the formative pillars of speed, quality, and checklists. Taylorist principals remain essential in all system efforts [1].  
