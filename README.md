@@ -2,11 +2,11 @@
 > Instructor: brian hogan, b.hogan@snhu.edu
 
 quick links:  
-• syllabus______________https://github.com/bbe2/IT.304.Fall.2022/blob/main/z.syllabus.it304.systems.design.analysis(undergrad).pdf  
-• data___________________https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
-• python_codebooks_____https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
+• syllabus______________https://github.com/bbe2/IT.304.Fall.2022/blob/main/z.syllabus.it304.systems.design.pdf  
+• data___________________https://github.com/bbe2/IT.304.Fall.2022/tree/data.shakespeare.corpus  
+• python_books_____https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
 • re-engineering models__  
-• weekly.assignments_____https://github.com/bbe2/IT.304.Fall.2022/tree/Weekly-Assignments  
+• weekly.assignments_____https://github.com/bbe2/IT.304.Fall.2022/tree/weekly.assignments  
 
 ## **Course Overview**  
 Systems analysis and design is an artform, discipline, and science. Thanks to Frederick Taylor, the 1890s embedded the formative pillars of speed, quality, and checklists as defined in his scientific management paradigm. As American industrialization advanced from ratchets in the 1930s to silicon in the 1950s and information systems from the 1960s to today. Taylorism stopwatches and now timestamps continue to embed themselves throughout systems design and analysis methodolgoie.
