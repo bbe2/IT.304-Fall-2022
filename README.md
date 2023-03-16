@@ -2,7 +2,7 @@
 > Instructor: brian hogan, b.hogan@snhu.edu
 
 quick links:  
-• syllabus______________  
+• syllabus______________https://github.com/bbe2/IT.304.Fall.2022/blob/main/z.syllabus.it304.systems.design.analysis(undergrad).pdf  
 • data___________________https://github.com/bbe2/IT.304.Fall.2022/tree/Shakespeare-Corpus  
 • python_codebooks_____https://github.com/bbe2/IT.304.Fall.2022/tree/python_books  
 • re-engineering models__  
