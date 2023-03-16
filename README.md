@@ -1,4 +1,4 @@
-> **IT.304: Systems requirements and implementation planning**  
+> **it.304: Systems requirements and design**  
 > Instructor: brian hogan, b.hogan@snhu.edu
 
 quick links:  
@@ -17,7 +17,7 @@ To perform systems analysis and design well, it helps to know different reengine
  
 In the 1990s, MIT computer science professor Michael Hammer developed the management theory of business process re-engineering (BPS). Its tenets are process improvement, process re-design, and process re-engineering. BPS emphasizes the application of a holistic view to assessing how business objectives and processes are or are not aligned.  
 
-Question: have you stood in line in a coffee shop while the servers are busy doing many things but not helping you? IT online ordering has drastically improved systems, but great designs that don't measure or factor in an end-user or customer's needs results in rancid reviews and single stars. Quality system design principals seek to identify the internal and external factors a a priori to implement compelling holistic design experiences. versus implementing a poor customer design.  
+**Question:** have you stood in line in a coffee shop while the servers are busy doing many things but not helping you? IT online ordering has drastically improved systems, but great designs that don't measure or factor in an end-user or customer's needs results in rancid reviews and single stars. Quality system design principals seek to identify the internal and external factors a a priori to implement compelling holistic design experiences. versus implementing a poor customer design.  
 
 In the 2020s, BPS is alive and well, as witnessed by consultancies like IBM Business Process Reengineering and Bain’s Business Process Redesign. BPS names change, such as Accenture Human + machine intelligence, but its Tayloristic principles remain exceedingly profitable.  
 
